@@ -16,6 +16,7 @@
 		84FCC8812761C82F00B3417A /* NorthEastSouthWestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FCC8802761C82F00B3417A /* NorthEastSouthWestTests.swift */; };
 		84FCC88B2761C82F00B3417A /* NorthEastSouthWestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FCC88A2761C82F00B3417A /* NorthEastSouthWestUITests.swift */; };
 		84FCC88D2761C82F00B3417A /* NorthEastSouthWestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FCC88C2761C82F00B3417A /* NorthEastSouthWestUITestsLaunchTests.swift */; };
+		84FCC89C2761D87800B3417A /* OtherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FCC89B2761D87800B3417A /* OtherViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		84FCC8862761C82F00B3417A /* NorthEastSouthWestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NorthEastSouthWestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84FCC88A2761C82F00B3417A /* NorthEastSouthWestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NorthEastSouthWestUITests.swift; sourceTree = "<group>"; };
 		84FCC88C2761C82F00B3417A /* NorthEastSouthWestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NorthEastSouthWestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		84FCC89B2761D87800B3417A /* OtherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		84FCC8682761C82D00B3417A /* NorthEastSouthWest */ = {
 			isa = PBXGroup;
 			children = (
+				84FCC89B2761D87800B3417A /* OtherViewController.swift */,
 				84FCC8692761C82D00B3417A /* AppDelegate.swift */,
 				84FCC86B2761C82D00B3417A /* SceneDelegate.swift */,
 				84FCC86D2761C82D00B3417A /* ViewController.swift */,
@@ -261,6 +264,7 @@
 				84FCC86E2761C82D00B3417A /* ViewController.swift in Sources */,
 				84FCC86A2761C82D00B3417A /* AppDelegate.swift in Sources */,
 				84FCC86C2761C82D00B3417A /* SceneDelegate.swift in Sources */,
+				84FCC89C2761D87800B3417A /* OtherViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
